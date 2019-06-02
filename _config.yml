@@ -45,15 +45,21 @@ skills: false
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
     - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
+    - AngularJS
+    - Java
+    - C#
     - Python
-    - MySQL - MongoDB    
-    - Git    
-
+    - MySQL - MongoDB - Oracle - SQL Server  
+    - Git
+    - Scrum
+    - Computer Security
+    - Machine Learning - Natural Language Processing
+    - XML
+    - JSON
+    - MVVM
+    - ElasticSearch
+    
 # do you want to display a projects section? true or false
 projects: true
 
@@ -63,7 +69,7 @@ project-list:
         name: B. Carlson, K. Leach, D. Marinov, M. Nagappan, and A. Prakash
         conference: Open Source Vulnerability Notification
         conference-description: 15th International Conference on Open Source Systems
-        location: (OSS 2019), 12-23, Montreal, Canada, May 2019 (Industry report.)
+        location: (OSS 2019), pg 12-23, Montreal, Canada, May 2019 (Industry report.)
         url: https://link.springer.com/chapter/10.1007/978-3-030-20883-7_2
         presentationTitle: OSS 2019 Presentation Slides
         presentation: assets/presentations/OSS2019-OpenSourceVulnerabilityNotification.pdf
