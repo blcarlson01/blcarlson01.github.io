@@ -1,11 +1,15 @@
 <section class="list">
     {% for project_hash in site.project-list %}
     {% assign project = project_hash[1] %}
-        <div class="item">
-                <a class="url" href="{{ project.url }}">
-                    <h3 class="title">{{ project.name }}</h3>
-                </a>
-                <p class="description">{{ project.description }}</p>        
+        <div class="item">        		
+                <a class="url" href="{{ project.url }}">{{ project.conference }}</a>
+                <p class="description">{{ project.name }}</p>
+                <p class="description">{{ project.conference-description }}</p> 
+                <p class="description">{{ project.location }}</p> 
+                <p class="description">{{ project.name }}</p>
+                <a href="{{ project.presentation }}">{{project.presentationTitle}}</a>
+                <p><a alt="Google Books" href="{{ project.googleBooks }}"><img title="Google Books" alt="Google Books" height="20" src="assets/images/Dtafalonso-Android-Lollipop-Play-Books.ico" /></a></p>
+                
         </div>
     {% endfor %}
 </section>
