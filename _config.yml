@@ -71,6 +71,7 @@ project-list:
         conference-description: 15th International Conference on Open Source Systems
         location: (OSS 2019), pg 12-23, Montreal, Canada, May 2019 (Industry report.)
         url: https://link.springer.com/chapter/10.1007/978-3-030-20883-7_2
+        preprint: assets/papers/CarlsonETAL19VulnerabilityNotification.pdf
         presentationTitle: OSS 2019 Presentation Slides
         presentation: assets/presentations/OSS2019-OpenSourceVulnerabilityNotification.pdf
         googleBooks: https://books.google.com/books?id=vdyZDwAAQBAJ&lpg=PA12&ots=3ZNUZxuYuZ&lr&pg=PA12#v=onepage&q&f=false

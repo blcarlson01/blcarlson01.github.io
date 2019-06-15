@@ -6,8 +6,8 @@
                 <p class="description">{{ project.name }}</p>
                 <p class="description">{{ project.conference-description }}</p> 
                 <p class="description">{{ project.location }}</p> 
-                <a href="{{ project.presentation }}">{{project.presentationTitle}}</a>
-                <p><a alt="Google Books" href="{{ project.googleBooks }}"><img title="Google Books" alt="Google Books" height="20" src="assets/images/Dtafalonso-Android-Lollipop-Play-Books.ico" /></a></p>
+                <p class="description">Preprint - <a href="{{ project.preprint }}">PDF</a></p>
+                <p class="description"><a href="{{ project.presentation }}">{{project.presentationTitle}}</a></p>           
         </div>
     {% endfor %}
 </section>
