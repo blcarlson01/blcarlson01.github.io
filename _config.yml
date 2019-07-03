@@ -74,7 +74,7 @@ project-list:
         preprint: assets/papers/CarlsonETAL19VulnerabilityNotification.pdf
         presentationTitle: OSS 2019 Presentation Slides
         presentation: assets/presentations/OSS2019-OpenSourceVulnerabilityNotification.pdf
-        googleBooks: https://books.google.com/books?id=vdyZDwAAQBAJ&lpg=PA12&ots=3ZNUZxuYuZ&lr&pg=PA12#v=onepage&q&f=false
+        ieee-spectrum: https://spectrum.ieee.org/tech-talk/computing/software/github-releases-new-tools-to-report-vulnerabilities
 
 # do you want to display the theme attribution? true or false
 footer: true
