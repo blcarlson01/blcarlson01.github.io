@@ -75,7 +75,7 @@ project-list:
         presentationTitle: OSS 2019 Presentation Slides
         presentation: assets/presentations/OSS2019-OpenSourceVulnerabilityNotification.pdf
         ieee-spectrum: https://spectrum.ieee.org/tech-talk/computing/software/github-releases-new-tools-to-report-vulnerabilities
-        gitlab-feature: https://gitlab.com/gitlab-org/gitlab-ce/issues/64841
+        gitlab-feature: https://gitlab.com/gitlab-org/gitlab/issues/30266
         bitbucket-feature: https://bitbucket.org/site/master/issues/18969/security-reporting-policy-for-open-source
 
 # do you want to display the theme attribution? true or false
