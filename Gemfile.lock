@@ -253,7 +253,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 204)
+  github-pages (>= 206)
   html-proofer (>= 3.14.1)
 
 BUNDLED WITH
