@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
 
-gem 'github-pages', '>= 207'
+gem 'github-pages', '>= 209'
 gem 'html-proofer', '>= 3.15.1'
